@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/web/index.html</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/servlets/CheckConfigServlet.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/web/about.html</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/Deck.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/players/ComputerPlayer.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/players/HumanPlayer.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/players/Player.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/game_engine/Game.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/game_engine/App.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/comm/Response.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/comm/Request.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/StandartCard.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/Series.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/Hand.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/CardInterface.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/cards/Card.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/servlets/SettingsServlet.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/nbproject/build-impl.xml</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/exceptions/AddPlayerException.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/exceptions/MaxPlayersException.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/logic/exceptions/PlayerExistsException.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/web/META-INF/context.xml</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/servlets/GameServlet.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/servlets/HomeServlet.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/src/java/servlets/WinnerServlet.java</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/web/css/game.css</file>
+        <file>file:/Users/assafey/Documents/java/GoFishWeb/web/css/winner.css</file>
+    </open-files>
+</project-private>
